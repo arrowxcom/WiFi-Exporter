@@ -1,2 +1,2 @@
 # WiFi Exporter
- Exports SSID and credentials for all WiFi configured on a Windows machine
+ Exports all Window's stored SSIDs and passwords configured on a machine
